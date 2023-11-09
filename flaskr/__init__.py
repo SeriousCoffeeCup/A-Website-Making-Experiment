@@ -1,12 +1,12 @@
 import os 
-
-from flask import Flash
+import sqlite3
+from flask import Flask
 
 #I'm not sure if I am meant to digest or break this somehow
 
 def create_app(test_config = None):
     # creating and configuring the app
-    app = Flash(__name__, instance_relative_config=True)
+    app = Flask(__name__, instance_relative_config=True)
         #curr python module = __name__
     app.config.from_mapping(
         SECRET_KEY='dev',
