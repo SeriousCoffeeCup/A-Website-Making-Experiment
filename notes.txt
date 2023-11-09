@@ -1,0 +1,22 @@
+https://github.com/microsoft/vscode-dev-containers/tree/main/containers
+https://www.google.com/search?q=docker&rlz=1C1YTUH_enUS1008US1008&oq=docker+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABhDGIMBGLEDGIoFMg8IAhAAGEMYgwEYsQMYigUyCQgDEAAYQxiKBTIJCAQQABhDGIoFMg8IBRAAGEMYgwEYsQMYigUyDwgGEAAYQxiDARixAxiKBTIJCAcQABhDGIoFMgkICBAAGEMYigUyCQgJEAAYQxiKBdIBCDEzNjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://github.com/microsoft/vscode-remote-try-python
+https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=181778131
+https://www.google.com/search?q=vs+code+remote+try+python+github&rlz=1C1YTUH_enUS1008US1008&oq=vs+code+remote+try+python+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQg0NTQzajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+chrome://settings/
+https://github.com/microsoft/vscode-dev-containers/blob/main/containers/python-3/.devcontainer/Dockerfile
+https://github.com/microsoft/vscode-dev-containers/blob/main/containers/python-3/.devcontainer/Dockerfile
+https://didactic-halibut-5ggv4qw4xx5q395w.github.dev/
+https://didactic-halibut-5ggv4qw4xx5q395w-9000.app.github.dev/
+https://www.google.com/search?q=bulk+url+opener+extnesion&rlz=1C1YTUH_enUS1008US1008&oq=bulk+url+opener+extnesion&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgWGB4yCAgFEAAYFhgeMgoIBhAAGIYDGIoFMgoIBxAAGIYDGIoF0gEIMzc5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+https://chromewebstore.google.com/detail/bulk-url-opener/kgnfciolbjojfdbbelbdbhhocjmhenep
+
+
+portainer
+
+
+https://didactic-halibut-5ggv4qw4xx5q395w.github.dev/?autoStart=false wait this isnt necessary
+
+https://github.com/SeriousCoffeeCup/A-Website-Making-Experiment
+
+https://imgur.com/a/4uHWpnB
